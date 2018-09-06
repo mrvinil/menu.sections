@@ -3,6 +3,7 @@
 <ul>
   <li>Скачиваем архив</li>
   <li>Распаковываем в свое пространство имен</li>
-  <li>Файлы .catalog.menu.php и .catalog.menu_ext.php кидаем в корень сайта</li>
+  <li>Файлы catalog.menu.php и catalog.menu_ext.php кидаем в корень сайта</li>
+  <li>Делаем эти файлы скрытыми, дописав "точку" вначале имени, должно получиться так .catalog.menu.php и .catalog.menu_ext.php</li>
   <li>Далее выводим компонент меню и устанавливаем флаг "_ext"</li>
 </ul>
